@@ -27,8 +27,6 @@ This project is a solution to the QR code component challenge on Frontend Mentor
 - Active State
 ![](./design/blog-preview-card-active.jpg)
 
-- Hover State
-
 ## My Process
 
 ### Built with
