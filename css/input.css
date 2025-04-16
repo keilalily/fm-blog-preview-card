@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: Figtree-Medium;
+    src: url('../assets/fonts/Figtree-Medium.ttf');
+}
+
+@font-face {
+    font-family: Figtree-ExtraBold;
+    src: url('../assets/fonts/Figtree-ExtraBold.ttf');
+}
+
+@theme {
+    --breakpoint-md: 768px;
+    --color-yellow: hsl(47, 88%, 63%);
+    --font-figtree-medium: Figtree-Medium, 'sans-serif';
+    --font-figtree-extrabold: Figtree-ExtraBold, 'sans-serif';
+}
