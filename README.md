@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-This project is a solution to the Blog preview card challenge on Frontend Mentor. The challenge was to build a clean, responsive Blog preview card component that closely matches the design provided, using best practices for structure and styling.
+This project is a solution to the Blog Preview Card challenge on Frontend Mentor. The challenge was to build a clean, responsive blog preview card component where users should be able to see hover and focus states for all interactive elements on the page.
 
 - Live Demo
 [View the Live Site](https://keilalily.github.io/fm-blog-preview-card/)
