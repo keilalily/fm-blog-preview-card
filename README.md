@@ -13,7 +13,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Overview
 
-This project is a solution to the QR code component challenge on Frontend Mentor. The challenge was to build a clean, responsive QR code component that closely matches the design provided, using best practices for structure and styling.
+This project is a solution to the Blog preview card challenge on Frontend Mentor. The challenge was to build a clean, responsive Blog preview card component that closely matches the design provided, using best practices for structure and styling.
 
 - Live Demo
 [View the Live Site](https://keilalily.github.io/fm-blog-preview-card/)
